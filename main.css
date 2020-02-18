@@ -6,14 +6,17 @@ body{
     width: 600px;
     margin-top: 120px;
     margin-left: 400px;
-    background-color: green;
+    background-color: #E4E5E8FF;
 
 }
 #kaire{
+    margin-top: 40px;
     display: inline-block;
     width: 50%;
-    background-color: yellow;
+    background-color: #E4E5E8FF;
     text-align: center;
+    font-family: 'Racing Sans One', cursive;
+    font-size: 20px;
     
 }
 #desine{
@@ -21,7 +24,8 @@ body{
     display: inline-block;
     width: 50%;
     float: left;
-    background-color: red;
+    background-color: #E4E5E8FF;
+    margin:0;
 }
 h1{
     display: inline-block;
@@ -35,12 +39,14 @@ p{
    
 }
 #antras{
-    font-size: 14px;
+    font-size: 12px;
 }
 a{
     display: inline-block;
-    padding: 20px;
+    padding: 8px;
     background-color: gray;
     color: white;
-   
+    text-decoration: none;
+    text-size: 5px;
+    
 }
