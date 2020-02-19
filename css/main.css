@@ -1,0 +1,59 @@
+body{
+    height: 100vh;
+    background-color:#E4E5E8FF;
+}
+.content{
+    display: inline-block;
+    width: 500px;
+    margin-top: calc((100vh - 302px)/2);
+    margin-left: calc((100% - 600px)/2);
+    background-color: #E4E5E8FF;
+
+}
+    .right{
+        margin-top: 0;
+        display: inline-block;
+        width: 50%;
+        background-color: #E4E5E8FF;
+        text-align: center;
+        font-family: 'Racing Sans One', cursive;
+        font-size: 20px;
+        
+    }
+    .left{
+
+        display: inline-block;
+        width: 50%;
+        float: left;
+        background-color: #E4E5E8FF;
+        margin:0;
+    }
+        h1{
+            display: inline-block;
+            width: 100%;
+            margin:0;
+            margin-bottom: 10px;
+            font-size:80px;
+        }
+        p{
+            display: inline-block;
+            width: 100%;
+            
+        
+        }
+        .small{
+            font-size: 12px;
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+        a{
+            display: inline-block;
+            padding: 20px;
+            background-color: gray;
+            color: white;
+            text-decoration: none;
+            text-size: 5px;
+            border-radius: 5px;
+            text-transform: uppercase;
+            
+        }
